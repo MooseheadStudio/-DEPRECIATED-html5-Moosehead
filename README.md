@@ -1,3 +1,10 @@
+>![WARNING]
+> # ⚠️ DEPRECATED & ARCHIVED
+> **This repository is no longer maintained.** It contains outdated code and significant security risks. 
+> **Do not use this in production.** It is kept online strictly for historical reference.
+
+
+
 ![Moosehead.Studio-Icon](icon.png) HTML5 Base for Moosehead.studios [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate) [Changelog](CHANGELOG.md).
 
 HTML5 Base is a professional front-end template for building fast, robust, and adaptable websites.
